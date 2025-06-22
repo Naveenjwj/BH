@@ -1,7 +1,4 @@
 streamlit
 pytube
 opencv-python-headless
-numpy
 pandas
-matplotlib
-Pillow
